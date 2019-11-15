@@ -1,0 +1,11 @@
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\obj\Debug\netcoreapp3.0\Csharp-Random-Numbers.csprojAssemblyReference.cache
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\obj\Debug\netcoreapp3.0\Csharp-Random-Numbers.AssemblyInfoInputs.cache
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\obj\Debug\netcoreapp3.0\Csharp-Random-Numbers.AssemblyInfo.cs
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.exe
+C:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.deps.json
+C:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.runtimeconfig.dev.json
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.dll
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\bin\Debug\netcoreapp3.0\Csharp-Random-Numbers.pdb
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\obj\Debug\netcoreapp3.0\Csharp-Random-Numbers.dll
+c:\Users\Oakley\Desktop\workspace\Csharp-Random-Numbers\obj\Debug\netcoreapp3.0\Csharp-Random-Numbers.pdb
